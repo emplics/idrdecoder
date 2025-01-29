@@ -1,0 +1,7 @@
+name: idrdecoder
+dependencies:
+  - tensorflow
+  - biopython
+  - pandas
+  - matplotlib
+  - scikit-learn
