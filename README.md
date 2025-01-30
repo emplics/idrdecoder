@@ -29,4 +29,7 @@ Once the environment is set up, run the program by executing the main script:
  python idr_map_all_241214.py idr_target_sample.fas > idr_target_sample.dat
 ```
 
-This setup works on Linux, Mac, and Windows. Adjust commands as necessary for your platform (e.g., conda activate for Linux/Mac and activate for older Windows systems).
+This setup works on Linux, Mac, and Windows.
+Adjust commands as necessary for your platform (e.g., conda activate for Linux/Mac and activate for older Windows systems).
+
+<img src="https://github.com/emplics/idrdecoder/blob/main/idr_map_landscape_01.png">
