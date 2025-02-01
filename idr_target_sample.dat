@@ -1,0 +1,237 @@
+seq_1	name	>aSyn
+seq_1	seq	LGKNEEGAPQEGILEDMPVDPDNEAYEMPSEEGYQDYEPEA
+seq_1	ve	-0.270	-0.368	0.083	0.095	-0.535	0.348	-0.305	0.187	0.577	-0.139	0.421	-0.309	0.163	0.666	0.280	-0.610	0.330	-0.480	0.509	-0.342	
+seq_1	vepca	-1.600	-0.128	0.089	0.167	-0.159	-0.025	0.224	-0.213	0.226	-0.369	0.131	-0.061	-0.019	0.025	-0.074	-0.242	-0.042	-0.115	0.027	0.003	
+seq_1	issum	-------------------------*-------*--*----
+seq_1	iscol	rnk	res	score
+seq_1	islst	1	37Y	1.000
+seq_1	islst	2	26Y	1.000
+seq_1	islst	3	34Y	1.000
+seq_1	pgsum	*na**-mlbmgt**-*za462--h--*i77pl9-r17uh--3--1----2-1-6-----2-amn***v3c**s*b3o9-33*-7---
+seq_1	pgcol	rnk	pg	score	name	smiles
+seq_1	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_1	pglst	2	PGO_27	0.918	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_1	pglst	3	PDO_4	0.911	1,3-PROPANDIOL	C(CO)CO
+seq_1	pglst	4	ACN_74	0.907	ACETONE	CC(=O)C
+seq_1	pglst	5	POL_71	0.880	N-PROPANOL	CCCO
+seq_1	pglst	6	NBU_66	0.818	N-BUTANE	CCCC
+seq_1	pglst	7	LNK_5	0.815	PENTANE	CCCCC
+seq_1	pglst	8	SBT_14	0.726	2-BUTANOL	CC[C@H](C)O
+seq_1	pglst	9	1BO_1	0.691	1-BUTANOL	CCCCO
+seq_1	pglst	10	2ME_65	0.668	METHOXYETHANE	CCOC
+seq_1	pglst	11	MOE_13	0.663	METHOXY-ETHOXYL	COCC[O-]
+seq_1	pglst	12	3CN_67	0.629	3-AMINOPROPANE	CCCN
+seq_1	pglst	13	LYT_16	0.628	BUTYLAMINE	CCCCN
+seq_1	pglst	14	ETA_72	0.557	ETHANOLAMINE	C(CO)N
+seq_2	name	>AR
+seq_2	seq	STLSLYKSGALDEAAAYQSRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYG
+seq_2	ve	-0.159	-0.023	-0.070	0.053	-0.603	0.255	-0.215	-0.070	0.505	-0.266	0.437	-0.346	0.217	0.668	0.287	-0.513	0.163	-0.400	0.427	-0.333	
+seq_2	vepca	-1.393	-0.275	-0.003	-0.106	-0.210	-0.128	-0.066	-0.177	0.126	-0.397	0.040	-0.228	-0.051	-0.092	-0.117	-0.237	-0.112	-0.151	-0.039	0.018	
+seq_2	issum	-------74d---l*m--------1g-*-*-9dfah9ca-b-x------g---1-8-q***j-------63--6d5zo-k--11o7s*u41-------1-------
+seq_2	iscol	rnk	res	score
+seq_2	islst	1	88A	1.000
+seq_2	islst	2	30A	0.869
+seq_2	islst	3	28A	0.840
+seq_2	islst	4	59A	0.786
+seq_2	islst	5	60A	0.779
+seq_2	islst	6	15A	0.772
+seq_2	islst	7	61A	0.764
+seq_2	pgsum	pd6**-9l84flnu-**713---6--*r53p57-m-2n3--1-------1-1-3-------66vqzy*19yqm*a1s4-11*-4---
+seq_2	pgcol	rnk	pg	score	name	smiles
+seq_2	pglst	1	PDO_4	1.000	1,3-PROPANDIOL	C(CO)CO
+seq_2	pglst	2	PHS_68	0.702	PHOSPHONIC ACID	OP(=O)O
+seq_2	pglst	3	ACN_74	0.700	ACETONE	CC(=O)C
+seq_2	pglst	4	PGO_27	0.635	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_2	pglst	5	ATJ_17	0.630	ETHYL HYDROGEN PHOSPHONATE	CCO[P@H](=O)O
+seq_2	pglst	6	EDO_82	0.588	1,2-ETHANEDIOL	C(CO)O
+seq_2	pglst	7	LYT_16	0.584	BUTYLAMINE	CCCCN
+seq_2	pglst	8	LNK_5	0.571	PENTANE	CCCCC
+seq_3	name	>cMyc
+seq_3	seq	NVKRRTHNVLERQRRNELKRSFFALRDQIPELENNEKAPKVVILKKATAYILSVQAEEQKLISEEDLLRKRREQLKHKLEQLRNS
+seq_3	ve	-0.052	-0.633	-0.037	0.076	-0.598	0.434	-0.255	0.234	0.556	0.106	0.350	-0.319	0.274	0.745	0.118	-0.620	0.297	-0.479	0.422	-0.325	
+seq_3	vepca	-1.471	0.018	0.157	0.199	-0.264	-0.035	0.463	-0.359	0.394	-0.462	0.120	-0.315	0.006	0.150	-0.019	-0.277	0.052	-0.149	0.014	-0.041	
+seq_3	issum	m-l*5--*-d-*-5s*-dl5----d5-----d----l--l---dll-----d-------ld-----dd5l55--dl-ld--d5--
+seq_3	iscol	rnk	res	score
+seq_3	islst	1	4R	1.000
+seq_3	islst	2	12R	1.000
+seq_3	islst	3	16N	0.890
+seq_3	islst	4	8N	0.890
+seq_3	pgsum	*l9**-ikajes**-**9351--f--*g66pi8-p-5rg--3-------2-1-5-----2-9jm***v2b*xr*a2m8-22*-6---
+seq_3	pgcol	rnk	pg	score	name	smiles
+seq_3	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_3	pglst	2	ACN_74	0.959	ACETONE	CC(=O)C
+seq_3	pglst	3	PGO_27	0.930	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_3	pglst	4	POL_71	0.899	N-PROPANOL	CCCO
+seq_3	pglst	5	PDO_4	0.868	1,3-PROPANDIOL	C(CO)CO
+seq_3	pglst	6	LNK_5	0.763	PENTANE	CCCCC
+seq_3	pglst	7	NBU_66	0.761	N-BUTANE	CCCC
+seq_3	pglst	8	1BO_1	0.684	1-BUTANOL	CCCCO
+seq_3	pglst	9	SBT_14	0.681	2-BUTANOL	CC[C@H](C)O
+seq_3	pglst	10	2ME_65	0.649	METHOXYETHANE	CCOC
+seq_3	pglst	11	MOE_13	0.611	METHOXY-ETHOXYL	COCC[O-]
+seq_3	pglst	12	LYT_16	0.611	BUTYLAMINE	CCCCN
+seq_3	pglst	13	3CN_67	0.607	3-AMINOPROPANE	CCCN
+seq_3	pglst	14	ATJ_17	0.558	ETHYL HYDROGEN PHOSPHONATE	CCO[P@H](=O)O
+seq_4	name	>NUPR1
+seq_4	seq	MATFPPATSAPQQPPGPEDEDSSLDESDLYSLAHSYLGPLIMPMPTSPLTPALVTGGGGRKGRTKREAAANTNRPSPGGHERKLVTKLQNSERKKRGARR
+seq_4	ve	-0.002	-0.168	-0.036	-0.035	-0.562	0.306	-0.290	0.123	0.527	-0.136	0.395	-0.326	0.215	0.647	0.241	-0.493	0.243	-0.476	0.460	-0.275	
+seq_4	vepca	-1.381	-0.185	0.094	-0.028	-0.264	0.061	0.136	-0.200	0.258	-0.313	0.062	-0.254	-0.097	-0.043	-0.046	-0.251	-0.104	-0.183	-0.039	0.005	
+seq_4	issum	-------2--1---1------------2-71---17-----------g------*-*--------c-gc-------------------------------
+seq_4	iscol	rnk	res	score
+seq_4	islst	1	55T	1.000
+seq_4	islst	2	57G	1.000
+seq_4	pgsum	*g4**-na6*5e**-oe5231--k--*633a*3-r-4e*--2-------1---3-----1-4*8**q916*sd*4197-11*-3---
+seq_4	pgcol	rnk	pg	score	name	smiles
+seq_4	pglst	1	AKR_10	1.000	ACRYLIC ACID	C=CC(=O)O
+seq_4	pglst	2	GLV_39	0.918	GLYOXYLIC ACID	C(=O)C(=O)O
+seq_4	pglst	3	EEE_32	0.902	ETHYL ACETATE	CCOC(=O)C
+seq_4	pglst	4	ACT_63	0.857	ACETATE ION	CNC(=O)O
+seq_4	pglst	5	PDO_4	0.806	1,3-PROPANDIOL	C(CO)CO
+seq_4	pglst	6	SBT_14	0.772	2-BUTANOL	CC[C@H](C)O
+seq_4	pglst	7	EDO_82	0.770	1,2-ETHANEDIOL	C(CO)O
+seq_4	pglst	8	NBU_66	0.725	N-BUTANE	CCCC
+seq_4	pglst	9	ACN_74	0.716	ACETONE	CC(=O)C
+seq_4	pglst	10	POL_71	0.674	N-PROPANOL	CCCO
+seq_4	pglst	11	LNK_5	0.669	PENTANE	CCCCC
+seq_4	pglst	12	PGO_27	0.667	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_4	pglst	13	MOE_13	0.665	METHOXY-ETHOXYL	COCC[O-]
+seq_4	pglst	14	2ME_65	0.616	METHOXYETHANE	CCOC
+seq_4	pglst	15	1BO_1	0.596	1-BUTANOL	CCCCO
+seq_5	name	>p27
+seq_5	seq	DMEEASQRKWNFDFQNHKPLEGKYEWQEVEKGSLPEFYYRPPRPPKGACKVPAQE
+seq_5	ve	-0.532	-0.293	0.026	0.117	-0.550	0.360	-0.304	0.240	0.614	-0.158	0.387	-0.289	0.212	0.684	0.345	-0.687	0.302	-0.437	0.481	-0.357	
+seq_5	vepca	-1.683	-0.159	-0.016	0.187	-0.175	-0.208	0.285	-0.183	0.131	-0.323	0.161	0.029	-0.004	-0.076	-0.154	-0.281	-0.030	-0.055	0.052	0.022	
+seq_5	issum	------7-i-----7--i*ga-i*a-7---i--g*--**-**-**i---i-*-7-
+seq_5	iscol	rnk	res	score
+seq_5	islst	1	41P	1.000
+seq_5	islst	2	45P	1.000
+seq_5	islst	3	19P	0.805
+seq_5	islst	4	44P	0.805
+seq_5	islst	5	42P	0.805
+seq_5	islst	6	35P	0.805
+seq_5	islst	7	52P	0.805
+seq_5	islst	8	24Y	0.721
+seq_5	islst	9	38Y	0.721
+seq_5	islst	10	39Y	0.721
+seq_5	pgsum	*m9**-kkales**-*ya461--g--*g66ok8-r-6sh--3-------2-1-5-----2-9lm***u2b*yr*a2m9-22*-6---
+seq_5	pgcol	rnk	pg	score	name	smiles
+seq_5	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_5	pglst	2	ACN_74	0.907	ACETONE	CC(=O)C
+seq_5	pglst	3	PGO_27	0.903	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_5	pglst	4	PDO_4	0.897	1,3-PROPANDIOL	C(CO)CO
+seq_5	pglst	5	POL_71	0.878	N-PROPANOL	CCCO
+seq_5	pglst	6	NBU_66	0.797	N-BUTANE	CCCC
+seq_5	pglst	7	LNK_5	0.778	PENTANE	CCCCC
+seq_5	pglst	8	SBT_14	0.710	2-BUTANOL	CC[C@H](C)O
+seq_5	pglst	9	1BO_1	0.677	1-BUTANOL	CCCCO
+seq_5	pglst	10	2ME_65	0.655	METHOXYETHANE	CCOC
+seq_5	pglst	11	MOE_13	0.646	METHOXY-ETHOXYL	COCC[O-]
+seq_5	pglst	12	3CN_67	0.606	3-AMINOPROPANE	CCCN
+seq_5	pglst	13	LYT_16	0.602	BUTYLAMINE	CCCCN
+seq_6	name	>TipA
+seq_6	seq	PAADPRAHLRRQHELLSARIGKLQKMAAAVEQAMEARSMGINLTPEEKFEVFGDFDPDQYEEEVRERWGNTDAYRQSKE
+seq_6	ve	-0.691	-0.477	-0.022	0.057	-0.561	0.373	-0.225	0.184	0.549	-0.082	0.429	-0.320	0.240	0.675	0.214	-0.617	0.278	-0.452	0.454	-0.385	
+seq_6	vepca	-1.614	-0.082	0.037	0.238	-0.201	-0.416	0.321	-0.274	0.254	-0.408	0.184	0.094	-0.028	-0.004	-0.150	-0.214	-0.048	-0.015	0.109	0.013	
+seq_6	issum	-----------------------------------------------------------*-------------*-----
+seq_6	iscol	rnk	res	score
+seq_6	islst	1	74Y	1.000
+seq_6	islst	2	60Y	1.000
+seq_6	pgsum	*na**-mlbmgt**-*za462--h--*i77pl9-s17uh--4--1----2-1-6-----2-amo***w3d**s*b3o9-33*-7---
+seq_6	pgcol	rnk	pg	score	name	smiles
+seq_6	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_6	pglst	2	PGO_27	0.920	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_6	pglst	3	PDO_4	0.913	1,3-PROPANDIOL	C(CO)CO
+seq_6	pglst	4	ACN_74	0.911	ACETONE	CC(=O)C
+seq_6	pglst	5	POL_71	0.882	N-PROPANOL	CCCO
+seq_6	pglst	6	NBU_66	0.821	N-BUTANE	CCCC
+seq_6	pglst	7	LNK_5	0.820	PENTANE	CCCCC
+seq_6	pglst	8	SBT_14	0.730	2-BUTANOL	CC[C@H](C)O
+seq_6	pglst	9	1BO_1	0.695	1-BUTANOL	CCCCO
+seq_6	pglst	10	2ME_65	0.674	METHOXYETHANE	CCOC
+seq_6	pglst	11	MOE_13	0.668	METHOXY-ETHOXYL	COCC[O-]
+seq_6	pglst	12	3CN_67	0.634	3-AMINOPROPANE	CCCN
+seq_6	pglst	13	LYT_16	0.634	BUTYLAMINE	CCCCN
+seq_6	pglst	14	ETA_72	0.562	ETHANOLAMINE	C(CO)N
+seq_7	name	>PTP1B
+seq_7	seq	WKELSHEDLEPPPEHIPPPPRPPKRILEPHNGKCREFFPNHQWVKEETQEDKDCPIKEEKGSPLNAAPYGIESMSQDTEVRSRVVGGSLRGAQAASPAKGEPSLPEKDEDHALSYWKPFLVNMCVATVLTAGAYLCYRFLFNSNT
+seq_7	ve	-0.832	-0.520	0.015	0.067	-0.576	0.287	-0.254	0.175	0.526	0.095	0.372	-0.291	0.161	0.655	0.284	-0.514	0.311	-0.421	0.467	-0.258	
+seq_7	vepca	-1.498	-0.125	-0.069	0.410	-0.279	-0.397	0.356	-0.369	0.232	-0.375	0.255	0.227	0.002	0.043	-0.178	-0.194	-0.123	0.021	0.114	0.021	
+seq_7	issum	--*---*--yotny--p**u-w*----qj---2--g--*------ff--h----s--8l---t----o24-b----3-6-----------------p---fb--ff--g-----2-2i---------------2--2--------
+seq_7	iscol	rnk	res	score
+seq_7	islst	1	3E	1.000
+seq_7	islst	2	19P	0.999
+seq_7	islst	3	23P	0.872
+seq_7	islst	4	18P	0.803
+seq_7	islst	5	7E	0.789
+seq_7	islst	6	39P	0.712
+seq_7	pgsum	*f5**-dd6i8r**-*q623---b--*a33he4-n-3od--1-------1---3-----1-6fg**zp17*tl*61g5-11*-3---
+seq_7	pgcol	rnk	pg	score	name	smiles
+seq_7	pglst	1	ACN_74	1.000	ACETONE	CC(=O)C
+seq_7	pglst	2	EDO_82	0.909	1,2-ETHANEDIOL	C(CO)O
+seq_7	pglst	3	POL_71	0.882	N-PROPANOL	CCCO
+seq_7	pglst	4	PGO_27	0.815	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_7	pglst	5	PDO_4	0.764	1,3-PROPANDIOL	C(CO)CO
+seq_7	pglst	6	NBU_66	0.754	N-BUTANE	CCCC
+seq_7	pglst	7	MOE_13	0.670	METHOXY-ETHOXYL	COCC[O-]
+seq_7	pglst	8	SBT_14	0.617	2-BUTANOL	CC[C@H](C)O
+seq_7	pglst	9	LNK_5	0.613	PENTANE	CCCCC
+seq_7	pglst	10	1BO_1	0.609	1-BUTANOL	CCCCO
+seq_7	pglst	11	2ME_65	0.579	METHOXYETHANE	CCOC
+seq_7	pglst	12	LYT_16	0.561	BUTYLAMINE	CCCCN
+seq_8	name	>Ab
+seq_8	seq	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGV
+seq_8	ve	-0.529	-0.260	0.103	0.104	-0.531	0.354	-0.275	0.154	0.564	-0.119	0.441	-0.346	0.192	0.688	0.203	-0.645	0.290	-0.471	0.534	-0.379	
+seq_8	vepca	-1.674	-0.110	-0.016	0.105	-0.184	-0.217	0.197	-0.239	0.202	-0.335	0.151	0.066	0.033	-0.020	-0.090	-0.152	-0.060	-0.056	0.047	0.023	
+seq_8	issum	-*------------------*--------*33-------
+seq_8	iscol	rnk	res	score
+seq_8	islst	1	30A	1.000
+seq_8	islst	2	21A	1.000
+seq_8	islst	3	2A	1.000
+seq_8	pgsum	*na**-lmblgt**-**b462--h--*i77qk9-s17uh--3--1----2-2-6-----2-alo***w3d**s*b3o9-33*-7---
+seq_8	pgcol	rnk	pg	score	name	smiles
+seq_8	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_8	pglst	2	PDO_4	0.926	1,3-PROPANDIOL	C(CO)CO
+seq_8	pglst	3	PGO_27	0.921	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_8	pglst	4	ACN_74	0.916	ACETONE	CC(=O)C
+seq_8	pglst	5	POL_71	0.879	N-PROPANOL	CCCO
+seq_8	pglst	6	NBU_66	0.822	N-BUTANE	CCCC
+seq_8	pglst	7	LNK_5	0.822	PENTANE	CCCCC
+seq_8	pglst	8	SBT_14	0.731	2-BUTANOL	CC[C@H](C)O
+seq_8	pglst	9	1BO_1	0.692	1-BUTANOL	CCCCO
+seq_8	pglst	10	2ME_65	0.673	METHOXYETHANE	CCOC
+seq_8	pglst	11	MOE_13	0.664	METHOXY-ETHOXYL	COCC[O-]
+seq_8	pglst	12	LYT_16	0.638	BUTYLAMINE	CCCCN
+seq_8	pglst	13	3CN_67	0.636	3-AMINOPROPANE	CCCN
+seq_8	pglst	14	ETA_72	0.563	ETHANOLAMINE	C(CO)N
+seq_8	pglst	15	ATJ_17	0.558	ETHYL HYDROGEN PHOSPHONATE	CCO[P@H](=O)O
+seq_9	name	>p53
+seq_9	seq	MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAM
+seq_9	ve	-0.321	0.111	0.117	-0.003	-0.586	0.322	-0.308	0.209	0.574	-0.002	0.402	-0.231	0.244	0.719	0.248	-0.720	0.363	-0.470	0.570	-0.322	
+seq_9	vepca	-1.654	-0.196	-0.248	-0.026	-0.276	-0.000	0.199	-0.223	0.215	-0.191	0.074	-0.035	0.004	-0.222	0.045	-0.181	-0.055	-0.123	-0.067	0.039	
+seq_9	issum	-------------*-------*--**-----*--*-----
+seq_9	iscol	rnk	res	score
+seq_9	islst	1	25L	1.000
+seq_9	islst	2	35L	1.000
+seq_9	islst	3	26L	1.000
+seq_9	islst	4	14L	1.000
+seq_9	islst	5	32L	1.000
+seq_9	islst	6	22L	1.000
+seq_9	pgsum	*o7**-oha*bo**-zs9451--k--*d56k*6-w-7n*--3-------2-1-5-----2-8*g***k2b**n*82ha-23*-6---
+seq_9	pgcol	rnk	pg	score	name	smiles
+seq_9	pglst	1	EDO_82	1.000	1,2-ETHANEDIOL	C(CO)O
+seq_9	pglst	2	PDO_4	0.975	1,3-PROPANDIOL	C(CO)CO
+seq_9	pglst	3	ACN_74	0.963	ACETONE	CC(=O)C
+seq_9	pglst	4	PGO_27	0.894	S-1,2-PROPANEDIOL	C[C@@H](CO)O
+seq_9	pglst	5	POL_71	0.879	N-PROPANOL	CCCO
+seq_9	pglst	6	NBU_66	0.863	N-BUTANE	CCCC
+seq_9	pglst	7	SBT_14	0.861	2-BUTANOL	CC[C@H](C)O
+seq_9	pglst	8	LNK_5	0.825	PENTANE	CCCCC
+seq_9	pglst	9	MOE_13	0.758	METHOXY-ETHOXYL	COCC[O-]
+seq_9	pglst	10	2ME_65	0.741	METHOXYETHANE	CCOC
+seq_9	pglst	11	1BO_1	0.732	1-BUTANOL	CCCCO
+seq_9	pglst	12	AKR_10	0.653	ACRYLIC ACID	C=CC(=O)O
+seq_9	pglst	13	ACT_63	0.633	ACETATE ION	CNC(=O)O
+seq_9	pglst	14	EEE_32	0.627	ETHYL ACETATE	CCOC(=O)C
+seq_9	pglst	15	GLV_39	0.610	GLYOXYLIC ACID	C(=O)C(=O)O
+seq_9	pglst	16	3CN_67	0.574	3-AMINOPROPANE	CCCN
+seq_9	pglst	17	ETA_72	0.557	ETHANOLAMINE	C(CO)N
