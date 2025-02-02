@@ -23,7 +23,7 @@ Activate the environment:
 ```
 $ conda activate idrdecoder
 ```
-Restore variable file
+Restore variable file:
 ```
 for linux or mac:
 $ cat idr_aetrain_pg_240420.hd5/variables/x?? > idr_aetrain_pg_240420.hd5/variables/variables.data-00000-of-00001
