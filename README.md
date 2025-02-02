@@ -1,13 +1,14 @@
-Instruction Manual: idrdecoder
-==========================
+# Instruction Manual
 Download and Install the Program from GitHub
 
 ## Prerequisites
 Ensure Python (3.10) is installed on your system.
+
 Install Anaconda or Miniconda for managing environments.
 
 ## Steps to Download and Install
 Open a terminal (Command Prompt/PowerShell on Windows or Terminal on Linux/Mac).
+
 Clone the repository by running:
 ```
 $ git clone https://github.com/{username}/{repository-name}.git
@@ -24,6 +25,15 @@ Activate the environment:
 ```
 $ conda activate idrdecoder
 ```
+Restore variable file
+```
+for linux or mac:
+$ cat idr_aetrain_pg_240420.hd5/variables/x?? > idr_aetrain_pg_240420.hd5/variables/variables.data-00000-of-00001
+for windows:
+$ copy /B idr_aetrain_pg_240420.hd5/variables/x?? idr_aetrain_pg_240420.hd5/variables/variables.data-00000-of-00001
+```
+This setup works on Linux, Mac, and Windows. 
+
 Once the environment is set up, run the program by executing the main script:
 ```
 $ python idr_map_all_241214.py input-file(e.g. idr_target_sample.fas) > output-file(e.g. idr_target_sample.dat)
