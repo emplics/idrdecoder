@@ -2,24 +2,22 @@
 Download and Install the Program from GitHub
 
 ## Prerequisites
-Ensure Python (3.10) is installed on your system.
-
-Install Anaconda or Miniconda for managing environments.
+Ensure Anaconda or Miniconda is installed on your system for managing environments.
 
 ## Steps to Download and Install
 Open a terminal (Command Prompt/PowerShell on Windows or Terminal on Linux/Mac).
 
 Clone the repository by running:
 ```
-$ git clone https://github.com/{username}/{repository-name}.git
+$ git clone https://github.com/emplics/idrdecoder.git
 ```
 Navigate into the downloaded folder:
 ```
-$ cd repository-name
+$ cd idrdecoder
 ```
 Create and Activate the Conda Environment. Use the provided yaml file to create a Conda environment:
 ```
-$ conda env create -f environment_platform.yml
+$ conda env create -f environment_{your platform}.yml
 ```
 Activate the environment:
 ```
