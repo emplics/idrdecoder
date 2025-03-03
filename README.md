@@ -28,7 +28,7 @@ Restore variable file:
 for linux or mac:
 $ cat idr_aetrain_pg_240420.hd5/variables/x?? > idr_aetrain_pg_240420.hd5/variables/variables.data-00000-of-00001
 for windows:
-$ copy /B idr_aetrain_pg_240420.hd5/variables/x?? idr_aetrain_pg_240420.hd5/variables/variables.data-00000-of-00001
+$ copy /B idr_aetrain_pg_240420.hd5\variables\x?? idr_aetrain_pg_240420.hd5\variables\variables.data-00000-of-00001
 ```
 This setup works on Linux, Mac, and Windows. 
 
