@@ -130,7 +130,7 @@ for record in SeqIO.parse(args.infile,"fasta"):
     la1=model_3.predict(l)
     for i in range(0,len(line)):
       for j in range(i,len(line)):
-        if j-i<para2:
+       if j-i<para2 and aa1.index(line[i])<20 and aa1.index(line[j])<20 :
           lp[i]+=la1[0][aa1.index(line[i])*20*para2+aa1.index(line[j])*para2+(j-i)]
           lp[j]+=la1[0][aa1.index(line[i])*20*para2+aa1.index(line[j])*para2+(j-i)]
     for i in range(0,len(line)-1):
